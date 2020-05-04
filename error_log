@@ -1,0 +1,6 @@
+[25-Apr-2020 09:26:11 UTC] PHP Fatal error:  Class 'A2OptBase' not found in /opt/a2-optimized/app/classes/class.A2OptPrestaShop.php on line 3
+[25-Apr-2020 05:26:11 US/Eastern] PHP Warning:  Use of undefined constant _RIJNDAEL_KEY_ - assumed '_RIJNDAEL_KEY_' (this will throw an Error in a future version of PHP) in /home/maveric9/public_html/classes/Cookie.php on line 79
+[25-Apr-2020 05:26:11 US/Eastern] PHP Warning:  Use of undefined constant _RIJNDAEL_IV_ - assumed '_RIJNDAEL_IV_' (this will throw an Error in a future version of PHP) in /home/maveric9/public_html/classes/Cookie.php on line 79
+[25-Apr-2020 10:29:58 UTC] PHP Fatal error:  Class 'A2OptBase' not found in /opt/a2-optimized/app/classes/class.A2OptPrestaShop.php on line 3
+[25-Apr-2020 06:29:58 US/Eastern] PHP Warning:  Use of undefined constant _RIJNDAEL_KEY_ - assumed '_RIJNDAEL_KEY_' (this will throw an Error in a future version of PHP) in /home/maveric9/public_html/classes/Cookie.php on line 79
+[25-Apr-2020 06:29:58 US/Eastern] PHP Warning:  Use of undefined constant _RIJNDAEL_IV_ - assumed '_RIJNDAEL_IV_' (this will throw an Error in a future version of PHP) in /home/maveric9/public_html/classes/Cookie.php on line 79
